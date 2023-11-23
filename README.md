@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 
+
+**Brief information:**
+
+BMSTU student, programming lover
+
+I'm looking for a job in Data Science
+
+**EMAIL** 💬: zakharovdaniilll@gmail.com
+
 
 <!--
 **tutpravitslon/tutpravitslon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
