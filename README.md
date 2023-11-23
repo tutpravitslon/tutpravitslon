@@ -1,4 +1,4 @@
-### Hi there 
+![image](https://github.com/tutpravitslon/tutpravitslon/assets/109144359/91f99363-12f6-4274-8734-d1190cfeb391)### Hi there 
 
 **Brief information:**
 
@@ -7,6 +7,8 @@ BMSTU student, programming lover
 I'm looking for a job in Data Science
 
 **EMAIL** 💬: zakharovdaniilll@gmail.com
+
+**Telegram** ☎️: @tutpravitslon
 
 
 <!--
