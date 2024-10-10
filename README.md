@@ -10,7 +10,7 @@ I'm looking for a job in Data Science
  
 **EMAIL** 💬: zakharovdaniilll@gmail.com
 
-**Telegram** ☎️: @tutpravitslon
+**Telegram** ☎️: @LinaFrina
 
 
 <!--
