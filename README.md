@@ -8,7 +8,7 @@ I'm looking for a job in Data Science
 
 ## Connect with me  
  
-**EMAIL** 💬: zakharovdaniilll@gmail.com
+**EMAIL** 💬: zaharovsd200@yandex.ru
 
 **Telegram** ☎️: @LinaFrina
 
